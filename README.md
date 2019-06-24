@@ -6,14 +6,14 @@ e-mail: shuangy@usc.edu
 Dataset: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#  
 
 ## Including:
-Pre-processing  
-Feature Selection  
-Imbalance data  
-Classifier  
-Result Interpretation  
+    Pre-processing  
+    Feature Selection  
+    Imbalance data  
+    Classifier  
+    Result Interpretation  
 
-Program platform: Python  
-Required: sklearn  
+    Program platform: Python  
+    Required: sklearn  
 
 ## Instruction:
 EE559, Professor: Keith Jenkins  
