@@ -16,11 +16,11 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#
     Required: sklearn  
 
 ## Instruction:
-EE559, Professor: Keith Jenkins  
-Authors: Jinpeng Qi & Shuang Yuan  
-Version: 3.0  
-Including: Pre processing, Feature-space dimensionality adjustment, Cross validation,   
-Training and classification, Results displaying  
+___EE559, Professor: Keith Jenkins___  
+___Authors: Jinpeng Qi & Shuang Yuan___  
+___Version: 3.0___  
+___Including: Pre processing, Feature-space dimensionality adjustment, Cross validation,___   
+___Training and classification, Results displaying___  
  
 Choose your pre-processing method:  
 Warning: if some errors show in this part, please re-run the program again. Because Training set missing some certain feature by randomlizaton.  
